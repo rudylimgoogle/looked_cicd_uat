@@ -1,4 +1,4 @@
 remote_dependency: retail {
   url: "https://github.com/rudylimgoogle/looker_cicd_dev.git"
-  ref: "d34d5e9211abe53e54f6f15385d8f464d39da882"
+  ref: "5e20e5feee266b85fa1e8b2e7943b43c8e48e858"
 }
